@@ -1,0 +1,26 @@
+{
+    "root": "/home/adrian/Dissertation",
+    "program": "/home/adrian/Dissertation/Code2/main.py",
+    "git": {
+        "remote": "https://github.com/honne23/Dissertation.git",
+        "commit": "a5eb154a50ecdf1e4c73cfe9f1dc35953a642720"
+    },
+    "email": "adriancoutsoftides@gmail.com",
+    "startedAt": "2020-05-27T02:46:50.370516",
+    "host": "deep-phi",
+    "username": "adrian",
+    "executable": "/home/adrian/miniconda3/bin/python",
+    "os": "Linux-5.3.0-53-generic-x86_64-with-debian-buster-sid",
+    "python": "3.7.4",
+    "gpu": "GeForce GTX 1080 Ti",
+    "gpu_count": 1,
+    "cpu_count": 12,
+    "cuda": "10.2.89",
+    "args": [],
+    "state": "running",
+    "jobType": null,
+    "mode": "run",
+    "name": "Quantile-Breakout",
+    "project": "final_evals",
+    "heartbeatAt": "2020-05-27T03:18:38.637454"
+}
