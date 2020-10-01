@@ -11,7 +11,7 @@ selection of games in addition to introducing a novel variation to the original 
 distributions of possible outcomes rather than expected returns.
 
 # Results
-*** Weights & Biases dashboard available <a href="https://app.wandb.ai/honne23/final_evals?workspace=user-honne23 ">here</a> ***
+Weights & Biases dashboard available <a href="https://app.wandb.ai/honne23/final_evals?workspace=user-honne23 ">here</a> 
 > Over the course of testing, it was difficult to consistently train the models as they were prone to
 crashes due to memory error. This was because of the size of the experience replay buffer. In
 order to get the models to learn on more difficult games such as Breakout and Demon Attack, a
